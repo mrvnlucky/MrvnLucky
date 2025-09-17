@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Marvin!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrvnlucky&label=Profile%20views&color=0e75b6&style=flat-square" alt="mrvnlucky" /> </p>
 
-- 🔭 Studied Computer Science at [Universitas Padjadjaran](https://www.unpad.ac.id/en/)
+- 📚 Studied Computer Science at [Universitas Padjadjaran](https://www.unpad.ac.id/en/)
 
 - 💼 Building native Android and Windows apps for [Indomaret Group](https://www.indomaret.co.id/)
 
