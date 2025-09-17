@@ -3,9 +3,7 @@
 
 - 🔭 Studied Computer Science at [Universitas Padjadjaran](https://www.unpad.ac.id/en/)
 
-- 🌱 I’m currently learning **Backend Development**
-
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/11B9JE6AUElvN35I9yqu0ztpW2JFwGu51/view?usp=sharing)
+- 💼 Building native Android and Windows apps for [Indomaret Group](https://www.indomaret.co.id/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
